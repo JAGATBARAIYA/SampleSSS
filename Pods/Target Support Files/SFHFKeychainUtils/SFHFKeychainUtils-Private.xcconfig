@@ -1,0 +1,6 @@
+#include "SFHFKeychainUtils.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Private" "${PODS_ROOT}/Headers/Private/SFHFKeychainUtils" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/AFNetworking" "${PODS_ROOT}/Headers/Public/AsyncImageView" "${PODS_ROOT}/Headers/Public/Google-Mobile-Ads-SDK" "${PODS_ROOT}/Headers/Public/Google-Mobile-Ads-SDK/GoogleMobileAds" "${PODS_ROOT}/Headers/Public/INTULocationManager" "${PODS_ROOT}/Headers/Public/MBProgressHUD" "${PODS_ROOT}/Headers/Public/SDWebImage" "${PODS_ROOT}/Headers/Public/SFHFKeychainUtils" "${PODS_ROOT}/Headers/Public/SVGeocoder" "${PODS_ROOT}/Headers/Public/TestFairy" "${PODS_ROOT}/Headers/Public/UIActivityIndicator-for-SDWebImage"
+OTHER_LDFLAGS = ${SFHFKEYCHAINUTILS_OTHER_LDFLAGS}
+PODS_ROOT = ${SRCROOT}
+SKIP_INSTALL = YES

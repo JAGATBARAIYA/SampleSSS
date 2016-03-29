@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Take Snapshot</string>
+		<key>ImgName</key>
+		<string>camera</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Shop</string>
+		<key>ImgName</key>
+		<string>shop</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>My Items</string>
+		<key>ImgName</key>
+		<string>items</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Remove Ads</string>
+		<key>ImgName</key>
+		<string>removeads</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Settings</string>
+		<key>ImgName</key>
+		<string>settings</string>
+	</dict>
+</array>
+</plist>
